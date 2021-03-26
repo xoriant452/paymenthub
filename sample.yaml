@@ -6,5 +6,5 @@
       yum:
         name: "httpd"
         state: " present"
-    - name: Strat Apache Server
+    - name: Strat Linux Server
        
