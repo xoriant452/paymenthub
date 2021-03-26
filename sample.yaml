@@ -5,6 +5,6 @@
     - name: Install packages
       yum:
         name: "httpd"
-        state: " present"
+        state: "present"
     - name: Strat Linux Server
        
